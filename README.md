@@ -52,5 +52,5 @@ The portfolio was built using:
 
 ## 🌍 Live Portfolio Website
 
-You can view the live portfolio here:https://tsinatt4ed5.github.io/portfolio/
+You can view the live portfolio here:https://tsinatT4ed5.github.io/Portfolio/
 
